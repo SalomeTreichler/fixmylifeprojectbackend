@@ -1,7 +1,6 @@
 package ch.module120.fixmylife.domainmodels.ActivityCategory;
 
-import ch.module120.fixmylife.domainmodels.Activity.Activity;
-import ch.module120.fixmylife.domainmodels.Activity.ActivityService;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
