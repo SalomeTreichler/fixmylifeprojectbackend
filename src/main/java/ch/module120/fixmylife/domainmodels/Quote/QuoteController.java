@@ -1,4 +1,4 @@
-package ch.module120.fixmylife.domainmodels.QuoteCategory;
+package ch.module120.fixmylife.domainmodels.Quote;
 
 import ch.module120.fixmylife.domainmodels.Quote.Quote;
 import ch.module120.fixmylife.domainmodels.Quote.QuoteService;
