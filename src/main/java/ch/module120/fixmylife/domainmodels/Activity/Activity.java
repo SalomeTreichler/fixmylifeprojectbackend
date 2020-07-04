@@ -21,7 +21,7 @@ public class Activity {
     private String activity;
 
     @ManyToOne(cascade= CascadeType.MERGE)
-    @JoinColumn(name="activity_category", referencedColumnName = "activity_category_id")
+    @JoinColumn(name="activity_category")
     private EventCategory activityCategory;
 
     public Activity() {
